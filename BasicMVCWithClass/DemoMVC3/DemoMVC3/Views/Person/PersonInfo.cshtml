@@ -1,0 +1,20 @@
+﻿@{
+	ViewData["Title"] = "PersonInfo";
+}
+<p><b>Persons List</b></p>
+<!--design the view page here, add required HTML-->
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Location</th>
+    </tr>
+    @foreach (Person person in Model.Persons) //possible because of IEnumerable interface
+    {
+        <tr>
+            <td>@person.PersonName</td>
+            <td>@person.PersonAge</td>
+            <td>@person.PersonLocation</td>
+        </tr>
+    }
+</table>

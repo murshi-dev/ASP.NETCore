@@ -1,0 +1,33 @@
+﻿@model EmployeeCRUDJan24.Models.UpdateEmployeeModel;
+<h1>Update Employee</h1>
+<form method="post" action="View" class="mt-5">
+	<!--add a section to display id-->
+	<div class="mb-3">
+		<label for="" class="form-label">Id</label>
+		<input type="text" class="form-control" asp-for="Id" readonly/>
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Name</label>
+		<input type="text" class="form-control" asp-for="Name" />
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Email</label>
+		<input type="email" class="form-control" asp-for="Email" />
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Date Of Join</label>
+		<input type="date" class="form-control" asp-for="DateOfJoin" />
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Designation</label>
+		<input type="text" class="form-control" asp-for="Designation" />
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Salary</label>
+		<input type="number" class="form-control" asp-for="Salary" />
+	</div>
+	<button type="submit" class="btn btn-primary">Update</button>
+	<!--add a delete button here-->
+	<!-- asp-action, asp-controller-->
+	<button type="submit" class="btn btn-danger" asp-action="Delete" asp-controller="Employee">Delete</button>
+</form>

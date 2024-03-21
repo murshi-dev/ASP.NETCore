@@ -1,0 +1,25 @@
+﻿@model EmployeeCRUDJan24.Models.AddEmployeeModel;
+<h1>Add Employee</h1>
+<form method="post" action="Add" class="mt-5">
+	<div class="mb-3">
+		<label for="" class="form-label">Name</label>
+		<input type="text" class="form-control" asp-for="Name"/>
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Email</label>
+		<input type="email" class="form-control" asp-for="Email" />
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Date Of Join</label>
+		<input type="date" class="form-control" asp-for="DateOfJoin"/>
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Designation</label>
+		<input type="text" class="form-control" asp-for="Designation" />
+	</div>
+	<div class="mb-3">
+		<label for="" class="form-label">Salary</label>
+		<input type="number" class="form-control" asp-for="Salary" />
+	</div>
+	<button type="submit" class="btn btn-primary">Submit</button>
+</form>

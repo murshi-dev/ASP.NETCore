@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\LoginValidate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|c:\\users\\admin\\desktop\\loginvalidate\\loginvalidate\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|solutionrelative:loginvalidate\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|c:\\users\\admin\\desktop\\loginvalidate\\loginvalidate\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|solutionrelative:loginvalidate\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|c:\\users\\admin\\desktop\\loginvalidate\\loginvalidate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|solutionrelative:loginvalidate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|c:\\users\\admin\\desktop\\loginvalidate\\loginvalidate\\views\\account\\welcomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|solutionrelative:loginvalidate\\views\\account\\welcomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|c:\\users\\admin\\desktop\\loginvalidate\\loginvalidate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257D7A67-0420-43F6-BC3F-4B10BD5EE57E}|LoginValidate\\LoginValidate.csproj|solutionrelative:loginvalidate\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginValidate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginValidate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T07:00:28.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Views\\Account\\WelcomePage.cshtml",
+              "RelativeDocumentMoniker": "LoginValidate\\Views\\Account\\WelcomePage.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Views\\Account\\WelcomePage.cshtml",
+              "RelativeToolTip": "LoginValidate\\Views\\Account\\WelcomePage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:47:42.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginValidate\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoginValidate\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:33:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginValidate\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginValidate\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:31:05.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "LoginValidate\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LoginValidate\\LoginValidate\\Models\\Login.cs",
+              "RelativeToolTip": "LoginValidate\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:26:27.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

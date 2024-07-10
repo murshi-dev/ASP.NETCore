@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\bin\Debug\net8.0\PersonListLINQ.exe
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\bin\Debug\net8.0\PersonListLINQ.deps.json
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\bin\Debug\net8.0\PersonListLINQ.runtimeconfig.json
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\bin\Debug\net8.0\PersonListLINQ.dll
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\bin\Debug\net8.0\PersonListLINQ.pdb
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\PersonListLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\PersonListLINQ.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\PersonListLINQ.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\PersonListLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\PersonListLINQ.dll
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\refint\PersonListLINQ.dll
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\PersonListLINQ.pdb
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\PersonListLINQ.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DIT2154N\Notes\c7 mvc\part 3\PersonListLINQ\PersonListLINQ\obj\Debug\net8.0\ref\PersonListLINQ.dll

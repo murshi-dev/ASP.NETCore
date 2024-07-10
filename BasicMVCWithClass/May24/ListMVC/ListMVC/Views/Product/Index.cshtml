@@ -1,0 +1,32 @@
+﻿@model IEnumerable<ListMVC.Models.Product>
+
+	<!--add a button to add a new item to the list-->
+	<p>
+		<a asp-action="Create" class="btn btn-primary">Create New Product</a>
+	</p>
+
+<table class="table">
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Price</th>
+		<th>Action</th>
+	</tr>
+	<!--since rows are added/deleted dynamically
+		use loop structure to dsiplay them
+		based on the numbe rof records currently
+		on the list
+	-->
+	@foreach (var product in Model)
+	{
+		<tr>
+			<td>@product.Id</td>
+			<td>@product.Name</td>
+			<td>@product.Price</td>
+			<td>
+				<a asp-action="Edit" asp-route-id="@product.Id" class="btn btn-warning">Edit</a>
+				<a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+			</td>
+		</tr>
+	}
+</table>

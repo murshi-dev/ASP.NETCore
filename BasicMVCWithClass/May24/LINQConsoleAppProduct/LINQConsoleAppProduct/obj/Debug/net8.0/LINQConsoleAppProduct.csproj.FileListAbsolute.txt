@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\bin\Debug\net8.0\LINQConsoleAppProduct.exe
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\bin\Debug\net8.0\LINQConsoleAppProduct.deps.json
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\bin\Debug\net8.0\LINQConsoleAppProduct.runtimeconfig.json
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\bin\Debug\net8.0\LINQConsoleAppProduct.dll
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\bin\Debug\net8.0\LINQConsoleAppProduct.pdb
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\LINQConsoleAppProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\LINQConsoleAppProduct.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\LINQConsoleAppProduct.AssemblyInfo.cs
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\LINQConsoleAppProduct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\LINQConsoleAppProduct.dll
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\refint\LINQConsoleAppProduct.dll
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\LINQConsoleAppProduct.pdb
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\LINQConsoleAppProduct.genruntimeconfig.cache
+C:\Users\Admin\Desktop\LINQConsoleAppProduct\LINQConsoleAppProduct\obj\Debug\net8.0\ref\LINQConsoleAppProduct.dll

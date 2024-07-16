@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|c:\\users\\admin\\source\\repos\\employeecrud\\employeecrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|solutionrelative:employeecrud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|c:\\users\\admin\\source\\repos\\employeecrud\\employeecrud\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|solutionrelative:employeecrud\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|c:\\users\\admin\\source\\repos\\employeecrud\\employeecrud\\models\\updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|solutionrelative:employeecrud\\models\\updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|c:\\users\\admin\\source\\repos\\employeecrud\\employeecrud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|solutionrelative:employeecrud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|c:\\users\\admin\\source\\repos\\employeecrud\\employeecrud\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3797D802-958E-4F88-A6C5-BD55CEA2384B}|EmployeeCRUD\\EmployeeCRUD.csproj|solutionrelative:employeecrud\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Models\\UpdateEmployeeModel.cs",
+              "RelativeDocumentMoniker": "EmployeeCRUD\\Models\\UpdateEmployeeModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Models\\UpdateEmployeeModel.cs",
+              "RelativeToolTip": "EmployeeCRUD\\Models\\UpdateEmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T03:10:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCRUD\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "EmployeeCRUD\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T03:08:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCRUD\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeCRUD\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T03:08:14.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Views\\Employee\\View.cshtml",
+              "RelativeDocumentMoniker": "EmployeeCRUD\\Views\\Employee\\View.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Views\\Employee\\View.cshtml",
+              "RelativeToolTip": "EmployeeCRUD\\Views\\Employee\\View.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T03:08:12.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeCRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeCRUD\\EmployeeCRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeCRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T03:00:57.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

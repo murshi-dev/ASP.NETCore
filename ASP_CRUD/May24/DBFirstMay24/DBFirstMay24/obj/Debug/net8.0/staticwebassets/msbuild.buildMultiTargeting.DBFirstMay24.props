@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DBFirstMay24.props" />
+</Project>

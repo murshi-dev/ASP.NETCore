@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|c:\\users\\admin\\source\\repos\\employeeefcoresep24\\employeeefcoresep24\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|solutionrelative:employeeefcoresep24\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|c:\\users\\admin\\source\\repos\\employeeefcoresep24\\employeeefcoresep24\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|solutionrelative:employeeefcoresep24\\views\\employee\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|c:\\users\\admin\\source\\repos\\employeeefcoresep24\\employeeefcoresep24\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|solutionrelative:employeeefcoresep24\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|c:\\users\\admin\\source\\repos\\employeeefcoresep24\\employeeefcoresep24\\models\\updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|solutionrelative:employeeefcoresep24\\models\\updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|c:\\users\\admin\\source\\repos\\employeeefcoresep24\\employeeefcoresep24\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|solutionrelative:employeeefcoresep24\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|c:\\users\\admin\\source\\repos\\employeeefcoresep24\\employeeefcoresep24\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|solutionrelative:employeeefcoresep24\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|c:\\users\\admin\\source\\repos\\employeeefcoresep24\\employeeefcoresep24\\models\\addemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A446D67A-F6ED-4C25-B3B4-72147638C3DC}|EmployeeEFCoreSep24\\EmployeeEFCoreSep24.csproj|solutionrelative:employeeefcoresep24\\models\\addemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Views\\Employee\\View.cshtml",
+              "RelativeDocumentMoniker": "EmployeeEFCoreSep24\\Views\\Employee\\View.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Views\\Employee\\View.cshtml",
+              "RelativeToolTip": "EmployeeEFCoreSep24\\Views\\Employee\\View.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T07:54:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateEmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Models\\UpdateEmployeeModel.cs",
+              "RelativeDocumentMoniker": "EmployeeEFCoreSep24\\Models\\UpdateEmployeeModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Models\\UpdateEmployeeModel.cs",
+              "RelativeToolTip": "EmployeeEFCoreSep24\\Models\\UpdateEmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:46:27.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeEFCoreSep24\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeEFCoreSep24\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T07:16:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeEFCoreSep24\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Views\\Employee\\Add.cshtml",
+              "RelativeToolTip": "EmployeeEFCoreSep24\\Views\\Employee\\Add.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T06:58:08.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeEFCoreSep24\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeEFCoreSep24\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAIwFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:55:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Models\\AddEmployeeModel.cs",
+              "RelativeDocumentMoniker": "EmployeeEFCoreSep24\\Models\\AddEmployeeModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Models\\AddEmployeeModel.cs",
+              "RelativeToolTip": "EmployeeEFCoreSep24\\Models\\AddEmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:53:59.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeEFCoreSep24\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\EmployeeEFCoreSep24\\EmployeeEFCoreSep24\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeEFCoreSep24\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:35:06.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

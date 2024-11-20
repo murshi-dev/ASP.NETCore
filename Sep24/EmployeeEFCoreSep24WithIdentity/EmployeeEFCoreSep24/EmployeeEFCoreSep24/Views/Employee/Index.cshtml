@@ -1,0 +1,29 @@
+﻿@model List<EmployeeEFCoreSep24.Models.Employee>
+<h1>Employee List</h1>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Date Of Join</th>
+			<th>Designation</th>
+			<th>Salary</th>
+			<th>Action</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var employee in Model)
+		{
+			<tr>
+				<td>@employee.Id</td>
+				<td>@employee.Name</td>
+				<td>@employee.Email</td>
+				<td>@employee.DateOfJoin</td>
+				<td>@employee.Designation</td>
+				<td>@employee.Salary</td>
+				<td><a asp-controller="Employee" asp-action="View" asp-route-id="@employee.Id">View</a></td>
+			</tr>
+		}
+	</tbody>
+</table>

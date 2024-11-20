@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|c:\\users\\admin\\source\\repos\\dbfirstsep24\\dbfirstsep24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|solutionrelative:dbfirstsep24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|c:\\users\\admin\\source\\repos\\dbfirstsep24\\dbfirstsep24\\models\\dbfirstsep24context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|solutionrelative:dbfirstsep24\\models\\dbfirstsep24context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|c:\\users\\admin\\source\\repos\\dbfirstsep24\\dbfirstsep24\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|solutionrelative:dbfirstsep24\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|c:\\users\\admin\\source\\repos\\dbfirstsep24\\dbfirstsep24\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|solutionrelative:dbfirstsep24\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|c:\\users\\admin\\source\\repos\\dbfirstsep24\\dbfirstsep24\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DE5CD6C-6253-440F-A8F8-549E4D7C2692}|DBFirstSep24\\DBFirstSep24.csproj|solutionrelative:dbfirstsep24\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "DBFirstSep24\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "DBFirstSep24\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:50:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "DBFirstSep24\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "DBFirstSep24\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:48:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Program.cs",
+              "RelativeDocumentMoniker": "DBFirstSep24\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Program.cs",
+              "RelativeToolTip": "DBFirstSep24\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:43:35.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\appsettings.json",
+              "RelativeDocumentMoniker": "DBFirstSep24\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\appsettings.json",
+              "RelativeToolTip": "DBFirstSep24\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T06:41:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbfirstSep24Context.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Models\\DbfirstSep24Context.cs",
+              "RelativeDocumentMoniker": "DBFirstSep24\\Models\\DbfirstSep24Context.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DBFirstSep24\\DBFirstSep24\\Models\\DbfirstSep24Context.cs",
+              "RelativeToolTip": "DBFirstSep24\\Models\\DbfirstSep24Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:33:08.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

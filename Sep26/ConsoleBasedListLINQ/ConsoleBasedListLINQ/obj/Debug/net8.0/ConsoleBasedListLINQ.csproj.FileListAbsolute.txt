@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\bin\Debug\net8.0\ConsoleBasedListLINQ.exe
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\bin\Debug\net8.0\ConsoleBasedListLINQ.deps.json
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\bin\Debug\net8.0\ConsoleBasedListLINQ.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\bin\Debug\net8.0\ConsoleBasedListLINQ.dll
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\bin\Debug\net8.0\ConsoleBasedListLINQ.pdb
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ConsoleBasedListLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ConsoleBasedListLINQ.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ConsoleBasedListLINQ.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ConsoleBasedListLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ConsoleBasedListLINQ.dll
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\refint\ConsoleBasedListLINQ.dll
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ConsoleBasedListLINQ.pdb
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ConsoleBasedListLINQ.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleBasedListLINQ\ConsoleBasedListLINQ\obj\Debug\net8.0\ref\ConsoleBasedListLINQ.dll
